@@ -1,4 +1,3 @@
-#!/bin/bash
 # function Extract for common file formats
 
 function extract {
